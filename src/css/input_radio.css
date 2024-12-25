@@ -40,6 +40,7 @@
     width: 100px;
     margin: 2px;
     border-radius: 50px;
+    vertical-align: middle;
 }
 
 .axpc_radio button:hover {

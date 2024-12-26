@@ -65,6 +65,8 @@
 #axp_post_radio_bgTransparent,
 #axp_post_radio_bgTransparent~label {
     cursor: pointer;
+    vertical-align: middle;
+    margin: auto 2px;
 }
 
 
